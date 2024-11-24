@@ -2,6 +2,7 @@ print("""     Задача № 1
 Рекурсивный бинарный поиск""")
 
 
+
 def binary_search_recursive(arr, target, left, right):
     if left > right:
         return -1
