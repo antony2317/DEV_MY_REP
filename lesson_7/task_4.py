@@ -16,4 +16,4 @@ def func(x, y):
     return x + y
 
 
-print(func(52, 56))
+print(func(52, 55))
