@@ -19,7 +19,7 @@ while True:
                     print(f'{a / b}')
                 else:
                     print('Деление на ноль!')
-        except(ValueError, TypeError):
+        except (ValueError, TypeError):
             print('вы ввели не верные данные')
     else:
         print('Неверный знак операции!')
